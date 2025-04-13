@@ -28,6 +28,7 @@ Veritabanı dosyası: `KullaniciDB.mdf`
 - Yıl
 - Burç
 - BurçYorum
+- BurçResim
 - VKI
 - VKIYorum
 
@@ -36,33 +37,15 @@ Veritabanı dosyası: `KullaniciDB.mdf`
 - Visual Studio 2022 veya üzeri
 - .NET Framework (örneğin: 4.7.2)
 - SQL Server Express (LocalDB)
-- `KullaniciDB.mdf` dosyasının `Copy to Output Directory` özelliği `Copy if newer` olarak ayarlanmalıdır.
 
 ## 🚀 Kullanım
 
 1. Projeyi Visual Studio'da açın.
-2. `KullaniciDB.mdf` dosyasını **proje dizinine** koyun ve özelliklerinden `Copy if newer` olarak ayarlayın.
 3. `burclar` klasörünü oluşturun ve burç resimlerini içine ekleyin (`jpg` formatında).
 4. `Form1.cs` içinde gerekli alanlara bilgileri girin ve "Kaydet" butonuna tıklayın.
 5. Bilgiler ekranda ve veritabanında görüntülenecektir.
 
-## 📁 Örnek Klasör Yapısı
 
-```
-ProjeKlasörü/
-│
-├── KullaniciDB.mdf
-├── KullaniciDB_log.ldf
-├── burclar/
-│   ├── kova.jpg
-│   ├── yengeç.jpg
-│   ├── aslan.jpg
-│   └── ...
-├── Form1.cs
-├── Form1.Designer.cs
-├── Program.cs
-└── README.md
-```
 
 ## 📷 Not
 
@@ -70,4 +53,3 @@ Burç resimlerini `burclar` klasöründe `burc_adi.jpg` formatında kaydedin. Ö
 - `aslan.jpg`
 - `kova.jpg`
 
-> Görsellerin yolu: `burclar/{burc_adi}.jpg` şeklinde tanımlıdır.
