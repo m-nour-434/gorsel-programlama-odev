@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sabre\\OneDrive\\Desktop\\c# proje\\\u00D6dev\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DCCA795-9762-4B7D-BEC4-BB695DC1C17C}|\u00D6dev\\\u00D6dev.csproj|c:\\users\\sabre\\onedrive\\desktop\\c# proje\\\u00F6dev\\\u00F6dev\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DCCA795-9762-4B7D-BEC4-BB695DC1C17C}|\u00D6dev\\\u00D6dev.csproj|solutionrelative:\u00F6dev\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DCCA795-9762-4B7D-BEC4-BB695DC1C17C}|\u00D6dev\\\u00D6dev.csproj|C:\\Users\\sabre\\OneDrive\\Desktop\\c# proje\\\u00D6dev\\\u00F6dev\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9DCCA795-9762-4B7D-BEC4-BB695DC1C17C}|\u00D6dev\\\u00D6dev.csproj|solutionrelative:\u00F6dev\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DCCA795-9762-4B7D-BEC4-BB695DC1C17C}|\u00D6dev\\\u00D6dev.csproj|C:\\Users\\sabre\\OneDrive\\Desktop\\c# proje\\\u00D6dev\\\u00F6dev\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DCCA795-9762-4B7D-BEC4-BB695DC1C17C}|\u00D6dev\\\u00D6dev.csproj|solutionrelative:\u00F6dev\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DCCA795-9762-4B7D-BEC4-BB695DC1C17C}|\u00D6dev\\\u00D6dev.csproj|C:\\Users\\sabre\\OneDrive\\Desktop\\c# proje\\\u00D6dev\\\u00F6dev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DCCA795-9762-4B7D-BEC4-BB695DC1C17C}|\u00D6dev\\\u00D6dev.csproj|solutionrelative:\u00F6dev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sabre\\OneDrive\\Desktop\\c# proje\\\u00D6dev\\\u00D6dev\\Program.cs",
+              "RelativeDocumentMoniker": "\u00D6dev\\Program.cs",
+              "ToolTip": "C:\\Users\\sabre\\OneDrive\\Desktop\\c# proje\\\u00D6dev\\\u00D6dev\\Program.cs",
+              "RelativeToolTip": "\u00D6dev\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T12:29:38.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\sabre\\OneDrive\\Desktop\\c# proje\\\u00D6dev\\\u00D6dev\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "\u00D6dev\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\sabre\\OneDrive\\Desktop\\c# proje\\\u00D6dev\\\u00D6dev\\Form1.Designer.cs",
+              "RelativeToolTip": "\u00D6dev\\Form1.Designer.cs",
+              "ViewState": "AgIAAK4BAAAAAAAAAAApwMABAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T12:01:01.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\sabre\\OneDrive\\Desktop\\c# proje\\\u00D6dev\\\u00D6dev\\Form1.cs",
+              "RelativeDocumentMoniker": "\u00D6dev\\Form1.cs",
+              "ToolTip": "C:\\Users\\sabre\\OneDrive\\Desktop\\c# proje\\\u00D6dev\\\u00D6dev\\Form1.cs",
+              "RelativeToolTip": "\u00D6dev\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T11:32:10.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sabre\\OneDrive\\Desktop\\c# proje\\\u00D6dev\\\u00D6dev\\Form1.cs",
+              "RelativeDocumentMoniker": "\u00D6dev\\Form1.cs",
+              "ToolTip": "C:\\Users\\sabre\\OneDrive\\Desktop\\c# proje\\\u00D6dev\\\u00D6dev\\Form1.cs [Design]",
+              "RelativeToolTip": "\u00D6dev\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T11:32:08.326Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
